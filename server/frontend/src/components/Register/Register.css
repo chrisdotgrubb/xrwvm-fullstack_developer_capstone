@@ -3,7 +3,7 @@
   flex-direction: column;
   margin: auto;
   margin-top: 2%;
-  background-color: darkturquoise;
+  background-color: darkred;
   min-width: 350px;
   width: 30%;
 }
@@ -57,9 +57,9 @@
 .img_icon{
   width:40px;
   margin:.1cm;
-  background-color:#0C9;
+  background-color: black;
   color:#FFF;
   border-radius:50px;
   text-align:center;
-  box-shadow: 2px 2px 3px #999;  
+  box-shadow: 2px 2px 3px #999;
 }
