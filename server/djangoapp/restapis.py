@@ -2,6 +2,7 @@
 # import requests
 import os
 
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -18,15 +19,15 @@ def get_request(endpoint, **kwargs):
     if (kwargs):
         for key, value in kwargs.items():
             params = params + key + "=" + value + "&"
-    
+
     request_url = backend_url + endpoint + "?" + params
-    
+
     print("GET from {} ".format(request_url))
     try:
         # Call get method of requests library with URL and parameters
         response = requests.get(request_url)
         return response.json()
-    except:
+    except: # noqa
         # If any error occurs
         print("Network exception occurred")
 
@@ -48,5 +49,5 @@ def post_review(data_dict):
         response = requests.post(request_url, json=data_dict)
         print(response.json())
         return response.json()
-    except:
+    except: # noqa
         print("Network exception occurred")
