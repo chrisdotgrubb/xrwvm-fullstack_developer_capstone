@@ -695,7 +695,7 @@ def get_cars(request):
 # # Update the `get_dealerships` view to render the index page with
 # a list of dealerships
 def get_dealerships(request, state="All"):
-    return JsonResponse({"status": 200, "dealers": dealer_data})
+    # return JsonResponse({"status": 200, "dealers": dealer_data})
     if (state == "All"):
         endpoint = "/fetchDealers"
     else:
