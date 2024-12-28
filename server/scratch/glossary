@@ -1,0 +1,1544 @@
+Access group	A group of users and service IDs is created so that the same access can be assigned to all entities within the group with one or more access policies.
+ACL	Access Control Lists
+Administrative users	Create, update, and delete application and service instances, and need insight into their team members' activities.
+AI	Artificial intelligence
+API keys	Unique identifiers are passed into an API to identify calling application or user.
+API	Application Programming Interface
+Application modernization	Helps organizations accelerate their digital transformation, take advantage of new technologies and services, and become more responsive to changing market dynamics
+Application Performance Monitoring (APM)	Measures application availability and performance, providing tools needed to troubleshoot issues in an application's environment.
+Application users	Users of the cloud-hosted applications.
+AppSec	Application Security
+Audit and compliance	A critical service within identity and access framework used to validate implemented controls against policies.
+Authentication	Also known as identity service, it enables applications deployed to the cloud to authenticate users at an application level.
+AZ	Availability Zones are distinct Data Centers with their own power, cooling and networking resources. These Zones can have names like DAL-09 or us-east-1.
+Bare-metal hypervisor	Installed directly on top of the physical server. They're more secure, have lower latency, and are usually the ones you see in the market the most.
+Block storage	Is presented to compute nodes using high-speed fiber connections, which means that read and write speeds are typically much faster and reliable than with file storage.
+Blockchain	An immutable network allowing members to view only those transactions that are relevant to them.
+BPM	Business Process Management
+Broad Network Access	Cloud computing resources can be accessed through the network.
+BYOK	Bring Your Own Keys
+CDNs	Content Delivery Networks is a distributed server network that delivers temporarily stored, or cached, copies of website content to users based on the user's geographic location.
+Client-side encryption	Occurs before data is sent to cloud storage.
+Cloud computing	A model for enabling convenient, on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+Cloud directory services	Used to securely manage user profiles and associated credentials inside a cloud environment.
+Cloud encryption	Also known as the last line of defense, it encrypts data and provides robust data access control, key management, and certificate management.
+Cloud monitoring solutions	Assess data, application, and infrastructure behaviors for performance, resource allocation, network availability, compliance, and security risks and threats.
+Cloud native application	An application developed from the outset to work only in the cloud environment, or an existing app that has been refactored and reconfigured with cloud native principles
+Cloud Region	A geographic area or location where a Cloud provider's infrastructure is clustered, and may have names like NA South or US East.
+Cloud security	Policies, technological procedures, services, and solutions designed to secure the enterprise applications and data on the cloud against insider threats, data breaches, compliance issues, and organized security threats.
+Composite multicloud	A variant of hybrid multicloud, distributes single applications across multiple providers, allowing you to move application components across cloud services and vendors as needed.
+Containers	Are an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere, whether it be on desktop, traditional IT, or the cloud.
+Continuous delivery	Delivering small, well-designed, high-quality increments of software to customers
+Continuous deployment	Progressing each new packaged build through the deployment lifecycle as rapidly as possible
+Continuous integration	Creating packaged builds of the code changes released as immutable images
+Continuous monitoring	Monitoring with tools that help developers understand the performance and availability of their applications, even before they're deployed to production
+CRM	Customer Relationship Management
+Data center	A huge room or a warehouse containing cloud infrastructure.
+Database monitoring tools	Help track processes, queries, and availability of services to ensure the accuracy and reliability of database management systems.
+Decryption key	Defines how the encrypted data will be transformed back to legible data.
+Dedicated hosts	Offer single-tenant isolation.
+Delivery pipeline	An automated sequence of steps that involves the stages of Ideation, Coding, Building, Deploying, Managing, and Continuous Improvement
+Developer users	Authorized to read sensitive information and to create, update, and delete applications.
+DevOps	Collaborative approach where business owners and the development, operations, and quality assurance teams collaborate to continuously deliver software
+Direct Attached storage	Or Local storage is storage which is presented directly to a cloud-based server and is effectively either within the host server chassis or within the same rack.
+Encryption algorithm	Defines the rules by which data will be transformed so that it becomes illegible.
+Encryption at rest	Protecting data while it is stored.
+Encryption in transit	Protecting data while it is transmitted from one location to another.
+Encryption in use	Protecting data when it is in use in memory.
+Encryption	Scrambling data to make it illegible.
+File storage	Is typically presented to compute nodes as 'NFS Storage'. NFS stands for Network File System and means that the storage is connected to compute nodes over a standard ethernet network.
+GCP	Google Cloud Platform
+HCM	Human Capital Management
+Hosted hypervisor	There's a layer of host OS between the physical server and the hypervisor. These hypervisors are less frequently used and mostly used for "end-user" virtualization.
+HPC	High-performance computing
+Hybrid cloud	A computing environment that connects an organization's on-premises private cloud and third-party public cloud into a single, flexible infrastructure for running the organization's applications and workloads.
+Hybrid monocloud	A hybrid cloud with one cloud provider.
+Hybrid multicloud	An open standards-based stack that can be deployed on any public cloud infrastructure
+Hypervisor	A piece of software that runs above the physical server or host.
+IaaS	Infrastructure as a service is a form of cloud computing that delivers fundamental compute, network, and storage resources to consumers on-demand, over the network, on a pay-as-you-go basis.
+IDC	International Data Corporation
+Identity and access management	Also known as access control, it helps authenticate and authorize users and provides user-specific access to cloud resources, services, and applications.
+Infrastructure monitoring tools	Identify minor and large-scale hardware failures and security gaps so that developers and administrators can take corrective action before problems affect user experience.
+IOPS	Input/Output Operations Per Second and refers to the speed at which the disks can write and read data.
+IoT	Internet of things
+Key management services	Help perform life cycle management for encryption keys that are used in cloud services or customer-build ap.ps
+KYOK	Keep Your Own Keys
+MDM	Master Data Management
+Measured Service	You only pay for what you use or reserve as you go.
+Microservices architecture	Approach in which a single application is composed of many loosely coupled and independently deployable, smaller components or services
+Microservices	Break down large applications into their core functions
+Monolithic architecture	Approach in which a single application is built out of one piece of software
+Multifactor authentication	Adds an additional layer or authentication for application users.
+NFS	Network File Storage
+NIST	National Institute for Standards and Technology
+Object storage	Storage not attached to a compute node, rather it is accessed via an API.
+PaaS	Platform as a service
+Pay-As-You-Go	Users can order cloud resources from a larger pool of available resources and pay for them on a per-use basis.
+POP	Post office protocol
+Private Cloud	Cloud infrastructure provisioned for exclusive use by a single organization comprising multiple consumers, such as the business units within the organization.
+Public Cloud	Users get access to servers, storage, network, security, and applications as services delivered by cloud service providers over the internet.
+Rapid elasticity	You can increase or decrease resources as per your demand because of the elastic property of the cloud.
+Reporting	Provides a user-centric view of access to resources.
+Reserved virtual server	Instances allow you to reserve capacity and guarantee resources for future deployments.
+SaaS	Software as a service
+SDN	Software Defined Networking
+Server-side encryption	Occurs after cloud storage receives your data but before the data is written to disk and stored.
+Serverless	Approach to computing that offloads responsibility for common infrastructure management tasks
+Service discovery	Creates a roadmap for microservices to communicate
+Shared or Public Cloud VMs	Are provider-managed, multi-tenant deployments that can be provisioned on-demand with predefined sizes.
+SIP	SaaS integration platforms
+SSL	Secure Sockets Layer
+TCO	Total cost for ownership
+TLS	Transport Layer Security
+Transient or Spot VMs	Take advantage of unused capacity in a cloud data center.
+User and service access management capability	Enables cloud application and service owners to provision and de-provision user profiles with minimal human interaction.
+Utility model of billing	You are charged after the usage and at the end of the pre-defined period.
+Virtualization	Process of creating a software-based or virtual version of something whether that be compute, storage, networking, servers, or applications.
+VLANs	Virtual Local Area Networks
+VM	Virtual machines are software-based computers, based on virtualization technologies.
+VPC	Virtual Private Cloud
+VPN	Virtual Private Networks
+
+AJAX	"Asynchronous JavaScript and XML" that encompasses more than asynchronous server calls through JavaScript and XML. It is not programing language or technology but rather a programming concept. Ajax represents a series of techniques that provide richer, interactive web applications through HTML, JavaScript, Cascading style sheets, and modifying the web page through the Document Object Model. The name is misleading though because nowadays, JSON is commonly used instead of XML.
+AngularJS	An open-source JavaScript framework for dynamic web applications.
+Anonymous Functions	A type of function that has no name or we can say which is without any name. It is declared without any identifier and is often used as a parameter of another function. It is a common way to execute a function immediately after its declaration.
+Application Programming Interface (API)	Code that allows two software programs to communicate with each other.
+Array	A data structure that aids the programmer in the storage and retrieval of data by indexed keys. Arrays use a zero-based indexing scheme, meaning that the first element of an array has an index of zero. Arrays grow or shrink dynamically by adding or removing elements.
+Build Automation Servers	Execute build-automation utilities on a scheduled or triggered basis.
+Build Automation Utilities	Generate executables by compiling and linking code.
+Build Automation	Allows you to download dependencies, compile code, package binary code, run tests, deploy to production.
+Classes	Classes act as a blueprint or template for building objects with similar characteristics and behaviours. A class encapsulates data (in the form of properties) and functions (in the form of methods) that work on that data.
+Client-Side Script	A program that accompanies an HTML doc or embedded in HTML. Scripts run during load of a document or when an action is performed. They can be used to validate forms, process input, or dynamically create document elements. Embed a script in HTML, with the <script> tag in either of the following ways:
+<script> // JS code </script>
+<script src="path name"></script>
+Use <noscript> tag for browsers with JavaScript disabled or ones that don't support JavaScript.
+Component Framework	Component frameworks provide pre-styled components and templates which are easy to add to any website.
+Continuous Integration/Continuous Deployment (CI/CD)	A method for releasing code and integrating it into code that has already been developed in order to prevent the application from breaking throughout the app's lifecycle.
+CSS	"Cascading Style Sheets" is a style sheet language that describes how HTML elements are displayed. It is the design that is layered over the top of an HTML web page.
+Django	A framework for Python web development.
+Document Objects	Document representing the main web page that gives access to all HTML elements on the page. When page is loaded HTML doc becomes a document. It is referred to with "document".
+DOM	"Document Object Model" is a programming interface (API) between HTML and JavaScript. It allows for dynamically accessing and updating content, structure, and style. JavaScript uses the DOM to access and modify web page elements in the browser.
+Dynamic Content	Data that is created each time a request is sent to a server.
+Element Nodes	All HTML tags.
+Element Objects	The most general base class that all element objects in a Document inherit. It only has methods and properties common to all elements. Everything in a HTML page is an element. And one element can have other elements nested within itself.
+Endpoint	The point at which an API connects with the software program.
+Event Binding	Refers to telling the browser that a function should be called whenever some 'event' occurs.
+Event Handlers	A function that declares what to do when an action is performed such as the click of a button. Example:
+1
+<button type="button" onclick="showAnswers()">
+Copied!
+Show Solution
+1
+<script>
+ function showAnswers()
+  {
+//code
+alert(""A"") }
+</script>
+</button>
+Copied!
+Note that showAnswers() is an event handler.
+Event	An event is something either a browser or a user does that the JavaScript can react to such as a button click or when a user submits input on a form.
+Extend	This keyword is used in class declarations or class expressions to create a class that is a child of another class.
+Fixed Layout	A fixed layout is a layout where you specify the height and width of elements, and those values remain the same regardless of which operating system or browser you use to access the website.
+Fluid Layout	A fluid layout is a layout in which the height and width of elements is flexible and can expand or contract based on the browser window, the operating system, and other user preferences.
+Frameworks	Provide a standard way to build an application. Frameworks dictate architecture and program flow.
+Functions	Functions are modules of code that execute a particular task. They may take-in data, called arguments or parameters, and sometimes return data as well, called the return value. Functions are commonly defined with this syntax:
+1
+function functionName() {
+ // function code;
+ // optional return statement;
+}
+Copied!
+IDE	"Integrated Development Environment" helps create and manage code.
+IIFE	"Immediately Invoked Function Expression" runs immediately after it is defined. After the function executes it cannot be called again elsewhere in the program. It is a type of self-executing function.
+Inversion of Control	A predefined workflow where the developer is not in full control of how the application operates.
+JavaScript Framework	An application framework written in JavaScript to create responsive sites.
+LESS	"Learner Style Sheets" add more style and functions to CSS.
+less.js	A JavaScript tool that converts LESS styles to CSS.
+Libraries	They are reusable collections of code.
+Nodes	The basis of all elements in the Document Object Model (DOM) structure.
+Objects	Objects are instances created from a class. They are real-world entities that represent the characteristics defined by the class. Objects have a special set of properties that store data and methods that specify behaviours. These methods and properties can be accessed and changed to carry out specific tasks and communicate with other programs.
+Opinionated	Frameworks that have a lot of control are sometimes considered "opinionated".
+Package Managers	Coordinate with file archivers to extract packages. Verify check sums and digital certificates. Locate, download, and install updates of existing software from a repository as well as manage dependencies. Common package managers include the following: Debian Package Management System (DPMS), Red Hat Package Manager for Linux, Chocolatery for Windows, Homebrew and MacPorts for MacOS.
+Packages	Archive files that include app files, instructions for installation, and metadata.
+Prototypes	A function prototype lets you easily define and add properties or methods to an object. Prototypes exist for all objects that can be created with the keyword "new". All object constructors create objects that inherit properties and methods that are defined by the prototype. At instantiation objects inherit the current state of the prototype. Note however, that scripts can override prototype properties and functions. Following is an example of using a prototype to add a method to the Car class:
+1
+function Car(make, model, year) {
+this.make = make;
+this.model = model;
+this.year = year;
+}
+Car.prototype.getName = function() {
+return this.make + ' ' + this.model + ' ' + this.year;
+}
+Copied!
+React.js	A JavaScript framework developed by Facebook that helps build and drop elements onto a page.
+Responsive Design	Design technique that automatically resizes a display to adapt to a specific screen size.
+Route	Allows front-end client to plug into correct socket on the backend. They are the paths that network traffic takes from a virtual machine (VM) instance to other destinations.
+SASS	"Syntactically Awesome Stylesheets" are an extension of CSS.
+Script	Offers developers means to modify and extend HTML documents in highly interactive ways. Scripts can be used to validate forms or to process input as it is typed. Scripts can be triggered by events that occur on a web page, such as the clicking of a button. Scripts can be used to dynamically create document elements on an HTML page.
+Self-Executing Functions	Often used to initialize data or declare DOM elements. These functions can be anonymous.
+Static Content	A display of data that has been previously stored on a server.
+Text Nodes	The nodes that contain actual text that go between an element start tag and end tag.
+this	Keyword "this" refers to current instance of the object. The value of "this" can vary depending on how the object is called.
+Utility Framework	The utility framework provides utility classes that are scoped to individual CSS properties, which helps in building custom designs in HTML files.
+Version Control	Allows you to revert to earlier versions of code, resolves conflicts between the same files, and split and merge different code branches.
+Vue.js	A community-based JavaScript framework focused on UI. Includes UI components such as buttons and other visual elements, and is both a library and a frame.
+Web Storage APIs	APIs that allow data storage in a browser.
+XHTML	An "eXtensible Hypertext Markup Language" similar to HTML but with stricter formatting rules.
+XML	An "eXtensible Markup Language" Designed to store and transport data allowing users to define their own markup languages, primarily to display documents on the web.
+
+Branch	A separate line of development that allows to work on features or fixes independently.
+Clone	A local copy of the remote Git repository on the computer.
+Cloning	A process of creating a copy of the project's code and its complete version history from the remote repository on the local machine.
+Commit	A snapshot of the project's current state at a specific point in time, along with a description of the changes made.
+Continuous delivery (CD)	The automated movement of software through the software development lifecycle.
+Continuous integration (CI)	A software development process in which developers integrate new code into the code base at least once a day.
+Developer	A computer programmer who is responsible for writing code.
+Distributed version control system (DVCS)	A system that keeps track of changes to code, regardless of where it is stored. It allows multiple users to work on the same codebase or repository, mirroring the codebase on their computers if needed, while the distributed version control software helps manage synchronization amongst the various codebase mirrors.
+Fork	A copy of a repository. You can fork a repository to use it as the base for a new project or to work on a project independently.
+Forking	Forking creates a copy of a repository on which one can work without affecting the original repository.
+Git	Free and open-source software distributed under the GNU General Public License. It is a distributed version control system that allows users to have a copy of their own project on their computer anywhere in the world.
+GitHub	A web-hosted service for the Git repository.
+GitHub branches	A branch stores all files in GitHub. Branches are used to isolate changes to code. When the changes are complete, they can be merged back into the main branch.
+GitLab	A complete DevOps platform delivered as a single application. It provides access to Git repositories, controlled by source code management.
+Integrator	A role that is responsible for managing changes made by developers.
+Master branch	A branch that stores the deployable version of your code. The master branch is created by default and is definitive.
+Merge	A process to combine changes from one branch to another, typically merging a feature branch into the main branch.
+Origin	A term that refers to the repository where a copy is cloned from.
+Pull request	A process used to request that someone reviews and approves your changes before they become final.
+Remote repositories	Repositories that are stored elsewhere. They can exist on the internet, on your network, or on your local computer.
+Repository	A data structure for storing documents, including application source code. It contains the project folders that are set up for version control.
+Repository administrator	A role that is responsible for configuring and maintaining access to the repository.
+SSH protocol	A method for secure remote login from one computer to another.
+Staging area	An area where commits can be formatted and reviewed before completing the commit.
+Upstream	A term used by developers to refer to the original source where the local copy was cloned from.
+Version control	A system that allows you to keep track of changes to your documents. This process allows you to recover older versions of the documents if any mistakes are made.
+Working directory	A directory in your file system that contains files and subdirectories on your computer that are associated with a Git repository.
+
+Action creators	Functions that create actions.
+Actions	JSON objects that contain information about changes that need to be made to the state. For example, a GET action obtains information, a POST action sends information, and a DELETE action removes information.
+Angular	Angular is a platform for building mobile and desktop web applications.
+App.js	Contains App, which is the root React component that you will add into your HTML page.
+Arrow functions	Allow you to declare functions the same way you declare variables.
+Asynchronous or async code	Runs in parallel, and an operation can occur while another one is still being processed.
+Babel	A special in-memory tool that compiles JSX and interprets it as JavaScript.
+Callback	A normal method called once a condition is met.
+Central Store	holds the entire application list in the form of the 'state tree'.
+Chai	An object that can be used as the assertion library.
+Class	A template or blueprint for creating objects.
+Class component	Use JavaScript ES6 classes to create class-based components in React.
+Component	Core building blocks of React.
+Component Lifecycle	A series of four phases make up the lifecycle of a component. These phases are: Initialization, Mounting, Updating, and Unmounting.
+Component testing	When you render component trees in a simple test environment and assert their output.
+Const	Allows you to declare constants whose values cannot be changed.
+Controlled input	Use React to fully control the element by setting and updating the input value directly.
+Create React App	Simplifies the process of creating React applications.
+Cross-origin requests	Requests that come from multiple sources.
+CSS	Cascading style sheets.
+Custom Hook	A new composition of one or multiple Hooks.
+Document Object Model (DOM)	It defines the logical structure of documents and the way a document is accessed and manipulated.
+ECMAScript	A standard used for client-side scripting.
+End-to-end testing	A multi-step test that combines multiple units and integrates all tests into one big test. It requires the running of a complete application in a realistic browser environment.
+Enzyme	A library that can be added to your testing tools in order to render your React components.
+ES	ES is short for ECMAScript, which is a standards organization that creates a wide range of global information and communications technology standards.
+ES6	JavaScript adheres to ECMA's specification EcmaScript6.
+event	Enable the component to manage document object model (DOM) actions as a result of user interaction on the system.
+Front-end frameworks	Are used to create a dynamic client that can connect to the server.
+Functional component	Created by writing a JavaScript function.
+High-order component	Are used to share logic with other components.
+Hooks	Enable functional components to attach local state with it, and this state will be preserved by React when the component re-renders.
+HTML	Hypertext markup language.
+index.js	Where you will add App to the HTML.
+Initialization phase	The first component lifecycle phase. During this phase, the component is constructed with the given Props and default state.
+Jest	A JavaScript test runner and assertion library used to test React components. It can be combined with Enzyme or the React Testing Library.
+JSX	JavaScript XML which resembles HTML.
+let	Allows you to restrict the scope of variables within the block where they were declared.
+Local scope	Is the limited scope.
+Local state	One of the two types of React states. Local state lives in a single component and is not used in other components. An example of local state is hiding and showing information. (See Shared state.)
+Middleware	Library that connects applications and services.
+Mocha	Object that can be used as the test runner.
+Mounting Phase	The second component lifecycle phase. During this phase, the JSX is rendered.
+NPM	Package manager for the Node JavaScript platform.
+onChange	Attribute that controls changes in the form.
+Payload property	An optional property that contains some data that is required to perform a task.
+Promise	Represents the eventual completion of an asynchronous operation and its return value.
+Props	Short for 'properties.' Read-only objects that store attribute values of tags. Used to pass data from parent to child components.
+Pure component	Do not depend on or modify the state of variables. Outside their scope.
+Push	When a user or software automation moves data from one location to another.
+React elements	Used to render the component to DOM.
+React Hook form	A form state management and validation library for React web-based applications and React Native mobile applications.
+React package	Holds the React source for components and their states and properties.
+React Testing Library	A set of helpers that let you test React components without depending on their implementation details. This library is a replacement for Enzyme.
+ReactDOM package	This is the glue between React and the DOM.
+Reducer	Pure functions that receive the current state and an Action object and return a new state with the actions performed.
+Redux	A state management library that is often used with React to handle the state of your application.
+Redux Saga	Middleware that uses an ES6 feature called Generators to enable async operations.
+Redux Thunk	Middleware that allows to pass functions within action creators to create async Redux.
+Ref function	Used to get the form values from DOM.
+setState	Updates state of the form input elements.
+Shared state	One of the two types of React states. Shared state is shared by multiple components and is complicated. An example of shared state is the list of all orders in an order application. (See Local state.)
+Sinon	An object that can be used to test JavaScript logic with objects such as spies, stubs, and mocks.
+Snapshot testing	Testing that helps check and verify the component rendering result.
+src folder	The main folder in which you will make changes.
+State	A plain JavaScript object used by React to represent information about the component's current situation. States help track changes in a component.
+Store	Contains the Redux application's current state, other functions, and objects.
+subclass	The class that is inheriting one other class.
+Subscription	Is triggered in the components whenever the state is updated in the store.
+superclass	The class being inherited by the subclass.
+Synchronous or sync code	Runs in sequence from top to bottom, and each operation must wait for the previous one to complete before executing.
+Testing	A line-by-line review of how code executes. Testing replicates end user actions to ensure features work as intended.
+this	Keyword that refers to the current object.
+Type property	A string that identifies the action.
+Uncontrolled input	Allows the browser to handle most of the form elements and collect data through React's change events.
+Unmounting phase	The final component lifecycle phase. During this phase, the component is removed from the page.
+Updating phase	The third component lifecycle phase. During this phase, the state of a component is updated, and the application is repainted.
+useContext	Manages context changes and provides the component with access to a context.
+useEffect	Manages side effects such as document changes, HTTP, and so on.
+useReducer	Manages Redux state changes.
+useState	A hook that allows you to use state in your function. It adds state to a function component.
+
+Access Token	A small piece of code that contains information about the user, their permissions, groups, and expirations that get passed from a server to the client.
+Anonymous Function	A function that is not named. An anonymous function is often passed into another function as a parameter.
+API Endpoint	The touchpoint where the API connects to the application it is communicating with.
+Application Server	Transforms data into dynamic content and runs the business logic, which is the data storage and transfer rules.
+Application-Level Middleware	Acts as a gatekeeper and is bound to the application. No request to the application server can go past it.
+Async	Short for "asynchronous". A process that runs independently of other processes.
+Authentication	The process of confirming a user's identity using credentials by validating who they claim to be. Authentication assures an application's security by guaranteeing that only those with valid credentials can access the system.
+Authorization	In token-based authentication, it is the process that gets executed when a web application wants to access a protected resource. A user authenticates against an authorization server.
+Axios Package	The axios package wraps promises around HTTP requests. It returns a promise object.
+Built-In Middleware	Can be bound to either the entire application or to specific routers. Useful for activities such as rendering HTML pages from the server, parsing JSON input from the front end, and parsing cookies.
+Callback Function	A function passed into another function as a parameter, which is then invoked inside the outer function to complete an action. Instead of blocking on asynchronous I/O operations, callback functions are used to handle results when the operations complete.
+Callback Hell	Many nested callback functions.
+Controller	The layer in an MVC application regulates the flow of the data. It is responsible for processing the data supplied to it by the user and sends that data to the model for manipulation or storage.
+Database Server	A server dedicated to providing database services.
+Dependencies	Code, usually in the form of libraries and packages, that are called from other modules and reused in a program.
+Error-Handling Middleware	Can be bound to either the entire application or to specific routers. Error-handling middleware always takes four arguments: error, request, response, and the next function that it needs to be chained to. Even if you don't use the next parameter, you still define it in the method signature.
+Event-Driven	Where the flow of a program is determined by particular events such as user input.
+Express.js	A highly configurable web framework for building applications on Node.js.
+Framework	Generates code that cannot be altered to perform common tasks. Examples include Django, Ruby on Rails, and Express.js.
+HTTP Headers	Additional information about and contained in an HTTP response or request.
+HTTP Request	A method called by a client and sent to a server requesting access to a resource on the server.
+HTTP Response	A method called by a server and sent to a client in response to an HTTP request.
+HTTP Server	A type of software-based server that understands URLs and hypertext transfer protocol.
+ID Token	An artifact that proves that a user has been authenticated and contains information about authorized API routes.
+Inversion of Control	When the flow of control, such as the execution of instructions, is controlled by a third party.
+JSON Payload	Data that is transferred in JSON format between the client and server in the header of an HTTP method.
+JWT	A JSON Web token. An internet standard for creating encrypted payload data in JSON format.
+Load	Refers to the number of concurrent users, the number of transactions, and the amount of data transferred back and forth between the clients and servers.
+Middleware	Includes functions that have access to the request and response objects and the next() function.
+Model	The layer in an MVC application responsible for managing the data of the application. It interacts with the database and handles the data logic.
+Module	Files containing related, encapsulated JavaScript code that serve a specific purpose.
+Multi-Threaded	Where multiple tasks are executed simultaneously.
+MVC	Short for "Model-View-Controller". It is an architectural pattern that divides an application into three components: model, view, and controller.
+Node Framework	A framework that works in conjunction with Node.js. A framework is a skeleton on which an application is built for a specific environment. The framework is the fundamental structure that supports the application.
+Node.js	A JavaScript runtime environment that runs on Google Chrome's V8 engine.
+Non-Blocking	Failure of a given thread does not cause failure in another, and the execution of a task is not blocked until execution of another task is completed.
+Npm	Stands for node package manager. It is the default package manager for the Node.js runtime environment.
+Package	A directory with one or more modules bundled together.
+Package.json	Contains metadata information about the project, including dependencies and scripts.
+Passwordless Authentication	A type of authentication that uses public/private key pairs to encrypt and decrypt data passed between client and server without the need for a password.
+Payload	The data transmitted between client and server.
+Private Key	In cryptography, it is a key that is known only to a specific client used to decrypt messages. Used in conjunction with a public key.
+Promise	An object in JavaScript that acts as a placeholder for an asynchronous task that is yet to be completed. It is the object that is returned from an asynchronous method. When you define a promise object in your script, instead of returning a value immediately, it returns a promise. The promise has three states, which are pending, fulfilled, and rejected.
+Public Key	In cryptography, it is a key that can be used by anyone to encrypt messages for a specific client. Used in conjunction with a private key.
+Pyramid of Doom	Another term for "callback hell".
+REST	"Representational state transfer" is a set of guidelines for creating stateless client/server interfaces using HTTP methods.
+REST API	An API used for communicating between clients and servers that conforms to REST architecture principles.
+Route	The code that associates an HTTP request method and a URL.
+Router-Level Middleware	Bound to a router and not bound to an application. You can use specific middleware for a specific route instead of having all requests go through the same middleware. Then you bind the application routes to each router.
+Runtime Environment	Behaves similarly to a mini operating system that provides the resources necessary for an application to run. It is the infrastructure that supports the execution of a codebase. It is the hardware and software environment in which an application gets executed. Node.js is an example of a backend runtime environment.
+Scalability	The application's ability to dynamically handle the load as is or shrinks without it affecting the application's performance.
+Server.js	A file that contains the code that handles server creation.
+Session-based Authentication	A type of authentication where a user provides login credentials that are verified against stored credentials in a database on a server. A session ID is provided to the client and stored in the browser as a cookie.
+Single-Threaded	Where only one command is processed at a given point of time.
+Statelessness	Implies that each HTTP request happens in isolation in relation to other requests. The state of the client is not stored on the server; the state is passed to the server by the client for each request.
+Template Rendering	The ability of the server to fill in dynamic content in an HTML template.
+Token	Contains three parts, the header, the payload, and the signature. The header contains information about the type of token and the algorithm used to create it. The payload contains user attributes, called claims, such as permissions, groups, and expirations. The signature verifies the token's integrity, meaning that the token hasn't changed during transit.
+Token-based Authentication	A type of authentication that uses access tokens, often JWTs, which get passed between server and client with the data that is passed between the two.
+TypeScript	A language that builds on top of JavaScript and provides type safety which assists with the development of large-scale applications by reducing the complexity of component development in JavaScript.
+View	The layer in an MVC application responsible for rendering the presentation of the data that is passed to it by the model.
+Web Server	Ensures client requests are responded to, often using HTTP.
+Web Service	A type of web API that communicates using HTTP requests. It is the web service in the programming interface that sends and receives requests using HTTP among web servers and the client.
+xml2js	Node.js package to parse a string of XML elements into a JavaScript object.
+
+.read_csv()	Reads data from a `.CSV` file and creates a DataFrame.	Syntax:
+1
+dataframe_name = pd.read_csv("filename.csv")
+Copied!
+Example:
+1
+df = pd.read_csv("data.csv")
+Copied!
+.read_excel()	Reads data from an Excel file and creates a DataFrame.	Syntax:
+1
+dataframe_name = pd.read_excel("filename.xlsx")
+Copied!
+Example:
+1
+df = pd.read_excel("data.xlsx")
+Copied!
+.to_csv()	Writes DataFrame to a CSV file.	Syntax:
+1
+dataframe_name.to_csv("output.csv", index=False)
+Copied!
+Example:
+1
+df.to_csv("output.csv", index=False)
+Copied!
+Access Columns	Accesses a specific column using [] in the DataFrame.	Syntax:
+1
+2
+dataframe_name["column_name"] # Accesses single column
+dataframe_name[["column1", "column2"]] # Accesses multiple columns
+Copied!
+Example:
+1
+2
+df["age"]
+df[["name", "age"]]
+Copied!
+Accessing Values	You can access the values in a dictionary using their corresponding keys.	Syntax:
+1
+Value = dict_name["key_name"]
+Copied!
+Example:
+1
+2
+name = person["name"]
+age = person["age"]
+Copied!
+Add or modify	Inserts a new key-value pair into the dictionary. If the key already exists, the value will be updated; otherwise, a new entry is created.	Syntax:
+1
+dict_name[key] = value
+Copied!
+Example:
+1
+2
+person["Country"] = "USA" # A new entry will be created.
+person["city"] = "Chicago" # Update the existing value for the same key
+Copied!
+add()	Elements can be added to a set using the `add()` method. Duplicates are automatically removed, as sets only store unique values.	Syntax:
+1
+set_name.add(element)
+Copied!
+Example:
+1
+fruits.add("mango")
+Copied!
+AND	Returns `True` if both statement1 and statement2 are `True`. Otherwise, returns `False`.	Syntax:
+1
+statement1 and statement2
+Copied!
+Example:
+1
+2
+3
+4
+5
+6
+7
+marks = 90
+attendance_percentage = 87
+if marks >= 80 and attendance_percentage >= 85:
+print("qualify for honors")
+else:
+print("Not qualified for honors")
+# Output = qualify for honors
+Copied!
+Class Definition	Defines a blueprint for creating objects and defining their attributes and behaviors.	Syntax:
+1
+class ClassName: # Class attributes and methods
+Copied!
+Example:
+1
+2
+3
+4
+class Person:
+def __init__(self, name, age):
+self.name = name
+self.age = age
+Copied!
+clear()	The clear() method empties the dictionary, removing all key-value pairs within it. After this operation, the dictionary is still accessible and can be used further.	Syntax:
+1
+dict_name.clear()
+Copied!
+Example:
+1
+grades.clear()
+Copied!
+clear()	The `clear()` method removes all elements from the set, resulting in an empty set. It updates the set in-place.	Syntax:
+1
+set_name.clear()
+Copied!
+Example:
+1
+fruits.clear()
+Copied!
+Comments	Comments are lines of text that are ignored by the Python interpreter when executing the code.
+1
+# This is a comment
+Copied!
+Concatenation	Combines (concatenates) strings.	Syntax:
+1
+concatenated_string = string1 + string2
+Copied!
+Example:
+1
+result = "Hello" + " John"
+Copied!
+copy()	Creates a shallow copy of the dictionary. The new dictionary contains the same key-value pairs as the original, but they remain distinct objects in memory.	Syntax:
+1
+new_dict = dict_name.copy()
+Copied!
+Example:
+1
+2
+new_person = person.copy()
+new_person = dict(person) # another way to create a copy of dictionary
+Copied!
+copy()	The `copy()` method creates a shallow copy of the set. Any modifications to the copy won't affect the original set.	Syntax:
+1
+new_set = set_name.copy()
+Copied!
+Example:
+1
+new_fruits = fruits.copy()
+Copied!
+Creating a Dictionary	A dictionary is a built-in data type that represents a collection of key-value pairs. Dictionaries are enclosed in curly braces {}.	Example:
+1
+2
+dict_name = {} #Creates an empty dictionary
+person = { "name": "John", "age": 30, "city": "New York"}
+Copied!
+Data Types	- Integer - Float - Boolean - String	Example:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+x=7
+# Integer Value
+y=14
+# Float Value
+is_valid = True
+# Boolean Value
+is_valid = False
+# Boolean Value
+F_Name = "John"
+# String Value
+Copied!
+Define Function	A `function` is a reusable block of code that performs a specific task or set of tasks when called.	Syntax:
+1
+def function_name(parameters): # Function body
+Copied!
+Example:
+1
+def greet(name): print("Hello,", name)
+Copied!
+Defining Sets	A set is an unordered collection of unique elements. Sets are enclosed in curly braces `{}`. They are useful for storing distinct values and performing set operations.	Example:
+1
+2
+empty_set = set() #Creating an Empty
+Set fruits = {"apple", "banana", "orange"}
+Copied!
+del	Removes the specified key-value pair from the dictionary. Raises a KeyError if the key does not exist.	Syntax:
+1
+del dict_name[key]
+Copied!
+Example:
+1
+del person["Country"]
+Copied!
+describe()	Generates statistics summary of numeric columns in the DataFrame.	Syntax:
+1
+dataframe_name.describe()
+Copied!
+Example:
+1
+df.describe()
+Copied!
+discard()	Use the `discard()` method to remove a specific element from the set. Ignores if the element is not found.	Syntax:
+1
+set_name.discard(element)
+Copied!
+Example:
+1
+fruits.discard("apple")
+Copied!
+drop()	Removes specified rows or columns from the DataFrame. axis=1 indicates columns. axis=0 indicates rows.	Syntax:
+1
+2
+dataframe_name.drop(["column1", "column2"], axis=1, inplace=True)
+dataframe_name.drop(index=[row1, row2], axis=0, inplace=True)
+Copied!
+Example:
+1
+2
+df.drop(["age", "salary"], axis=1, inplace=True) # Will drop columns
+df.drop(index=[5, 10], axis=0, inplace=True) # Will drop rows
+Copied!
+dropna()	Removes rows with missing NaN values from the DataFrame. axis=0 indicates rows.	Syntax:
+1
+dataframe_name.dropna(axis=0, inplace=True)
+Copied!
+Example:
+1
+df.dropna(axis=0, inplace=True)
+Copied!
+duplicated()	Duplicate or repetitive values or records within a data set.	Syntax:
+1
+dataframe_name.duplicated()
+Copied!
+Example:
+1
+duplicate_rows = df[df.duplicated()]
+Copied!
+Equal(==)	Checks if two values are equal.	Syntax:
+1
+variable1 == variable2
+Copied!
+Example 1:
+1
+2
+5 == 5
+returns True
+Copied!
+Example 2:
+1
+2
+age = 25 age == 30
+returns False
+Copied!
+File opening modes	Different modes to open files for specific operations.	Syntax:
+1
+2
+r (reading) w (writing) a (appending) + (updating:
+read/write) b (binary, otherwise text)
+Copied!
+Examples:
+1
+2
+3
+4
+5
+6
+with open("data.txt", "r") as file: content = file.read() print(content)
+with open("output.txt", "w") as file: file.write("Hello, world!")
+with open("log.txt", "a") as file: file.write("Log entry: Something
+happened.")
+with open("data.txt", "r+") as file: content = file.read()
+file.write("Updated content: " + content)
+Copied!
+File reading methods	Different methods to read file content in various ways.	Syntax:
+1
+2
+3
+file.readlines() # reads all lines as a list
+readline() # reads the next line as a string
+file.read() # reads the entire file content as a string
+Copied!
+Example:
+1
+2
+3
+4
+with open("data.txt", "r") as file:
+lines = file.readlines()
+next_line = file.readline()
+content = file.read()
+Copied!
+File writing methods	Different write methods to write content to a file.	Syntax:
+1
+2
+file.write(content) # writes a string to the file
+file.writelines(lines) # writes a list of strings to the file
+Copied!
+Example:
+1
+2
+3
+lines = ["Hello\n", "World\n"]
+with open("output.txt", "w") as file:
+file.writelines(lines)
+Copied!
+Filter Rows	Creates a new DataFrame with rows that meet specified conditions.	Syntax:
+1
+filtered_df = dataframe_name[(Conditional_statements)]
+Copied!
+Example:
+1
+filtered_df = df[(df["age"] > 30) & (df["salary"] < 50000)
+Copied!
+For Loop	A `for` loop repeatedly executes a block of code for a specified number of iterations or over a sequence of elements (list, range, string, etc.).	Syntax:
+1
+for variable in sequence: # Code to repeat
+Copied!
+Example 1:
+1
+2
+for num in range(1, 10):
+print(num)
+Copied!
+Example 2:
+1
+2
+3
+fruits = ["apple", "banana", "orange", "grape", "kiwi"]
+for fruit in fruits:
+print(fruit)
+Copied!
+Function Call	A function call is the act of executing the code within the function using the provided arguments.	Syntax:
+1
+function_name(arguments)
+Copied!
+Example:
+1
+greet("Alice")
+Copied!
+Greater Than or Equal To(>=)	Checks if the value of variable1 is greater than or equal to variable2.	Syntax:
+1
+variable1 >= variable2
+Copied!
+Example 1:
+1
+2
+5 >= 5 and 9 >= 5
+returns True
+Copied!
+Example 2:
+1
+2
+3
+4
+quantity = 105
+minimum = 100
+quantity >= minimum
+returns True
+Copied!
+Greater Than(>)	Checks if the value of variable1 is greater than variable2.	Syntax:
+1
+variable1 > variable2
+Copied!
+Example 1:
+1
+2
+ 9 > 6
+returns True
+Copied!
+Example 2:
+1
+2
+3
+4
+age = 20
+max_age = 25
+age > max_age
+returns False
+Copied!
+groupby()	Splits a DataFrame into groups based on specified criteria, enabling subsequent aggregation, transformation, or analysis within each group.	Syntax:
+1
+2
+3
+4
+grouped = dataframe_name.groupby(by, axis=0, level=None,
+as_index=True,
+sort=True, group_keys=True, squeeze=False, observed=False,
+dropna=True)
+Copied!
+Example:
+1
+grouped = df.groupby(["category", "region"]).agg({"sales": "sum"})
+Copied!
+head()	Displays the first n rows of the DataFrame.	Syntax:
+1
+dataframe_name.head(n)
+Copied!
+Example:
+1
+df.head(5)
+Copied!
+If Statement	Executes code block `if` the condition is `True`.	Syntax:
+1
+if condition: #code block for if statement
+Copied!
+Example:
+1
+2
+if temperature > 30:
+print("It's a hot day!")
+Copied!
+If-Elif-Else	Executes the first code block if condition1 is `True`, otherwise checks condition2, and so on. If no condition is `True`, the else block is executed.	Syntax:
+1
+2
+3
+4
+5
+6
+if condition1:
+# Code if condition1 is True
+elif condition2:
+# Code if condition2 is True
+else:
+# Code if no condition is True
+Copied!
+Example:
+1
+2
+3
+4
+5
+6
+7
+8
+score = 85 # Example score
+if score >= 90:
+print("You got an A!")
+elif score >= 80:
+print("You got a B.")
+else:
+print("You need to work harder.")
+# Output = You got a B.
+Copied!
+If-Else Statement	Executes the first code block if the condition is `True`, otherwise the second block.	Syntax:
+1
+2
+if condition: # Code, if condition is True
+else: # Code, if condition is False
+Copied!
+Example:
+1
+2
+3
+4
+if age >= 18:
+print("You're an adult.")
+else:
+print("You're not an adult yet.")
+Copied!
+Import pandas	Imports the Pandas library with the alias pd.	Syntax:
+1
+import pandas as pd
+Copied!
+Example:
+1
+import pandas as pd
+Copied!
+Importing NumPy	Imports the NumPy library.	Syntax:
+1
+import numpy as np
+Copied!
+Example:
+1
+import numpy as np
+Copied!
+Indexing	Accesses character at a specific index.	Example:
+1
+2
+my_string="Hello"
+char = my_string[0]
+Copied!
+info()	Provides information about the DataFrame, including data types and memory usage.	Syntax:
+1
+dataframe_name.info()
+Copied!
+Example:
+1
+df.info()
+Copied!
+issubset()	The `issubset()` method checks if the current set is a subset of another set. It returns True if all elements of the current set are present in the other set, otherwise False.	Syntax:
+1
+is_subset = setissubset(set2)
+Copied!
+Example:
+1
+is_subset = fruits.issubset(colors)
+Copied!
+issuperset()	The `issuperset()` method checks if the current set is a superset of another set. It returns True if all elements of the other set are present in the current set, otherwise False.	Syntax:
+1
+is_superset = setissuperset(set2)
+Copied!
+Example:
+1
+is_superset = colors.issuperset(fruits)
+Copied!
+items()	Retrieves all key-value pairs as tuples and converts them into a list of tuples. Each tuple consists of a key and its corresponding value.	Syntax:
+1
+items_list = list(dict_name.items())
+Copied!
+Example:
+1
+info = list(person.items())
+Copied!
+Iterating over lines	Iterates through each line in the file using a `loop`.	Syntax:
+1
+for line in file: # Code to process each line
+Copied!
+Example:
+1
+2
+with open("data.txt", "r") as file:
+for line in file: print(line)
+Copied!
+key existence	You can check for the existence of a key in a dictionary using the in keyword	Example:
+1
+2
+if "name" in person:
+print("Name exists in the dictionary.")
+Copied!
+keys()	Retrieves all keys from the dictionary and converts them into a list. Useful for iterating or processing keys using list methods.	Syntax:
+1
+keys_list = list(dict_name.keys())
+Copied!
+Example:
+1
+person_keys = list(person.keys())
+Copied!
+len()	Returns the length of a string.	Syntax:
+1
+len(string_name)
+Copied!
+Example:
+1
+2
+my_string="Hello"
+length = len(my_string)
+Copied!
+Less Than or Equal To(<=)	Checks if the value of variable1 is less than or equal to variable2.	Syntax:
+1
+variable1 <= variable2
+Copied!
+Example 1:
+1
+2
+5 <= 5 and 3 <= 5
+returns True
+Copied!
+Example 2:
+1
+2
+3
+4
+size = 38
+max_size = 40
+size <= max_size
+returns True
+Copied!
+Less Than(<)	Checks if the value of variable1 is less than variable2.	Syntax:
+1
+variable1 < variable2
+Copied!
+Example 1:
+1
+2
+4 < 6
+returns True
+Copied!
+Example 2:
+1
+2
+3
+4
+score = 60
+passing_score = 65
+score < passing_score
+returns True
+Copied!
+Loop Controls	`break` exits the loop prematurely. `continue` skips the rest of the current iteration and moves to the next iteration.	Syntax:
+1
+2
+3
+4
+5
+6
+for: # Code to repeat
+if # boolean statement
+break
+for: # Code to repeat
+if # boolean statement
+continue
+Copied!
+Example 1:
+1
+2
+3
+4
+for num in range(1, 6):
+if num == 3:
+break
+print(num)
+Copied!
+Example 2:
+1
+2
+3
+4
+for num in range(1, 6):
+if num == 3:
+continue
+print(num)
+Copied!
+lower()	Converts string to lowercase.	Example:
+1
+2
+my_string="Hello"
+uppercase_text = my_string.lower()
+Copied!
+merge()	Merges two DataFrames based on multiple common columns.	Syntax:
+1
+merged_df = pd.merge(df1, df2, on=["column1", "column2"])
+Copied!
+Example:
+1
+merged_df = pd.merge(sales, products, on=["product_id", "category_id"])
+Copied!
+NOT	Returns `True` if variable is `False`, and vice versa.	Syntax:
+1
+!variable
+Copied!
+Example:
+1
+2
+!isLocked
+returns True if the variable is False (i.e., unlocked).
+Copied!
+Not Equal(!=)	Checks if two values are not equal.	Syntax:
+1
+variable1 != variable2
+Copied!
+Example:
+1
+2
+3
+4
+a = 10
+b = 20
+a != b
+returns True
+Copied!
+Example 2:
+1
+2
+3
+count=0
+count != 0
+returns False
+Copied!
+np.array()	Creates a one or multi-dimensional array,	Syntax:
+1
+2
+array_1d = np.array([list1 values]) # 1D Array
+array_2d = np.array([[list1 values], [list2 values]]) # 2D Array
+Copied!
+Example:
+1
+2
+array_1d = np.array([1, 2, 3]) # 1D Array
+array_2d = np.array([[1, 2], [3, 4]]) # 2D Array
+Copied!
+Numpy Array Attributes	- Calculates the mean of array elements	Example:
+1
+2
+3
+4
+5
+np.mean(array)
+np.sum(array)
+np.min(array)
+np.max(array)
+np.dot(array_1, array_2)
+Copied!
+Object Creation	Creates an instance of a class (object) using the class constructor.	Syntax:
+1
+object_name = ClassName(arguments)
+Copied!
+Example:
+1
+person1 = Person("Alice", 25)
+Copied!
+Open() and close()	Opens a file, performs operations, and explicitly closes the file using the close() method.	Syntax:
+1
+2
+file = open(filename, mode) # Code that uses the file
+file.close()
+Copied!
+Example:
+1
+2
+3
+file = open("data.txt", "r")
+content = file.read()
+file.close()
+Copied!
+OR	Returns `True` if either statement1 or statement2 (or both) are `True`. Otherwise, returns `False`.	Syntax:
+1
+statement1 || statement2
+Copied!
+Example:
+1
+2
+3
+"Farewell Party Invitation"
+Grade = 12 grade == 11 or grade == 12
+returns True
+Copied!
+pop()	The `pop()` method removes and returns an arbitrary element from the set. It raises a `KeyError` if the set is empty. Use this method to remove elements when the order doesn't matter.	Syntax:
+1
+removed_element = set_name.pop()
+Copied!
+Example:
+1
+removed_fruit = fruits.pop()
+Copied!
+print DataFrame	Displays the content of the DataFrame.	Syntax:
+1
+print(df) # or just type df
+Copied!
+Example:
+1
+2
+print(df)
+df
+Copied!
+print()	Prints the message or variable inside `()`.	Example:
+1
+2
+print("Hello, world")
+print(a+b)
+Copied!
+Python Operators	- Addition (+): Adds two values together.	Example:
+1
+2
+3
+4
+5
+6
+7
+x = 9 y = 4
+result_add= x + y # Addition
+result_sub= x - y # Subtraction
+result_mul= x * y # Multiplication
+result_div= x / y # Division
+result_fdiv= x // y # Floor Division
+result_mod= x % y # Modulo</td>
+Copied!
+range()	Generates a sequence of numbers within a specified range.	Syntax:
+1
+2
+3
+range(stop)
+range(start, stop)
+range(start, stop, step)
+Copied!
+Example:
+1
+2
+3
+range(5) #generates a sequence of integers from 0 to
+range(2, 10) #generates a sequence of integers from 2 to
+range(1, 11, 2) #generates odd integers from 1 to
+Copied!
+remove()	Use the `remove()` method to remove a specific element from the set. Raises a `KeyError` if the element is not found.	Syntax:
+1
+set_name.remove(element)
+Copied!
+Example:
+1
+fruits.remove("banana")
+Copied!
+replace()	Replaces substrings.	Example:
+1
+2
+my_string="Hello"
+new_text = my_string.replace("Hello", "Hi")
+Copied!
+replace()	Replaces specific values in a column with new values.	Syntax:
+1
+2
+dataframe_name["column_name"].replace(old_value, new_value,
+inplace=True)
+Copied!
+Example:
+1
+df["status"].replace("In Progress", "Active", inplace=True)
+Copied!
+Return Statement	`Return` is a keyword used to send a value back from a function to its caller.	Syntax:
+1
+return value
+Copied!
+Example:
+1
+2
+def add(a, b): return a + b
+result = add(3, 5)
+Copied!
+Set Operations	Perform various operations on sets: `union`, `intersection`, `difference`, `symmetric difference`.	Syntax:
+1
+2
+3
+4
+union_set = setunion(set2)
+intersection_set = setintersection(set2)
+difference_set = setdifference(set2)
+sym_diff_set = setsymmetric_difference(set2)
+Copied!
+Example:
+1
+2
+3
+4
+combined = fruits.union(colors)
+common = fruits.intersection(colors)
+unique_to_fruits = fruits.difference(colors)
+sym_diff = fruits.symmetric_difference(colors)
+Copied!
+Slicing	Extracts a portion of the string.	Syntax:
+1
+substring = string_name[start:end]
+Copied!
+Example:
+1
+my_string="Hello" substring = my_string[0:5]
+Copied!
+split()	Splits a string into a list based on a delimiter.	Example:
+1
+2
+my_string="Hello"
+split_text = my_string.split(",")
+Copied!
+strip()	Removes leading/trailing whitespace.	Example:
+1
+2
+my_string="Hello"
+trimmed = my_string.strip()
+Copied!
+tail()	Displays the last n rows of the DataFrame.	Syntax:
+1
+dataframe_name.tail(n)
+Copied!
+Example:
+1
+df.tail(5)
+Copied!
+Try-Except Block	Tries to execute the code in the try block. If an exception of the specified type occurs, the code in the except block is executed.	Syntax:
+1
+2
+try: # Code that might raise an exception except
+ExceptionType: # Code to handle the exception
+Copied!
+Example:
+1
+2
+3
+4
+try:
+num = int(input("Enter a number: "))
+except ValueError:
+print("Invalid input. Please enter a valid number.")
+Copied!
+Try-Except with Else Block	Code in the `else` block is executed if no exception occurs in the try block.	Syntax:
+1
+2
+3
+try: # Code that might raise an exception except
+ExceptionType: # Code to handle the exception
+else: # Code to execute if no exception occurs
+Copied!
+Example:
+1
+2
+3
+4
+5
+6
+try:
+num = int(input("Enter a number: "))
+except ValueError:
+print("Invalid input. Please enter a valid number")
+else:
+print("You entered:", num)
+Copied!
+Try-Except with Finally Block	Code in the `finally` block always executes, regardless of whether an exception occurred.	Syntax:
+1
+2
+3
+try: # Code that might raise an exception except
+ExceptionType: # Code to handle the exception
+finally: # Code that always executes
+Copied!
+Example:
+1
+2
+3
+4
+5
+6
+7
+try:
+file = open("data.txt", "r")
+data = file.read()
+except FileNotFoundError:
+print("File not found.")
+finally:
+file.close()
+Copied!
+update()	The update() method merges the provided dictionary into the existing dictionary, adding or updating key-value pairs.	Syntax:
+1
+dict_name.update({key: value})
+Copied!
+Example:
+1
+person.update({"Profession": "Doctor"})
+Copied!
+update()	The `update()` method adds elements from another iterable into the set. It maintains the uniqueness of elements.	Syntax:
+1
+set_name.update(iterable)
+Copied!
+Example:
+1
+fruits.update(["kiwi", "grape"])
+Copied!
+upper()	Converts string to uppercase.	Example:
+1
+2
+my_string="Hello"
+uppercase_text = my_string.upper()
+Copied!
+values()	Extracts all values from the dictionary and converts them into a list. This list can be used for further processing or analysis.	Syntax:
+1
+values_list = list(dict_name.values())
+Copied!
+Example:
+1
+person_values = list(person.values())
+Copied!
+Variable Assignment	Assigns a value to a variable.	Syntax:
+1
+variable_name = value
+Copied!
+Example:
+1
+2
+name="John" # assigning John to variable name
+x = 5 # assigning 5 to variable x
+Copied!
+While Loop	A `while` loop repeatedly executes a block of code as long as a specified condition remains `True`.	Syntax:
+1
+while condition: # Code to repeat
+Copied!
+Example:
+1
+2
+count = 0 while count < 5:
+print(count) count += 1
+Copied!
+with open()	Opens a file using a with block, ensuring automatic file closure after usage.	Syntax:
+1
+with open(filename, mode) as file: # Code that uses the file
+Copied!
+Example:
+1
+2
+with open("data.txt", "r") as file:
+content = file.read()
+
+A container	powered by the containerization engine, is a standard unit of software that encapsulates the application code, runtime, system tools, system libraries, and settings necessary for programmers to efficiently build, ship and run applications.
+A Dockerfile	is a text document that contains all the commands you would normally execute manually in order to build a Docker image. Docker can build images automatically by reading the instructions from a Dockerfile.
+A/B testing	Strategy is mostly used for testing new features in front-end applications. It is used to evaluate two versions of the application namely A and B, to assess which one performs better in a controlled environment. The two versions of the applications differ in terms of features and cater to different sets of users. Based on the interaction and responses received from the users such as feedback, you can choose one of the versions of the application that can be deployed globally into production.
+Agile	is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer issues.
+Automated bin packing	Increases resource utilization and cost savings using a mix of critical and best-effort workloads.
+Batch execution	Manages batch and continuous integration workloads and automatically replaces failed containers, if configured.
+Build	The process of transforming inputs into a resultant object.
+BuildConfig	An OpenShift-specific object that defines the process for a build to follow. The build process makes use of the input sources and the build strategy. The BuildConfig is the blueprint, and the build is an instance of that blueprint.
+Canary Deployments	Aims to deploy the new version of the application by gradually increasing the number of users. The canary deployment strategy uses the real users to test the new version of the application. As a result, bugs and issues can be detected and fixed before the new version of the application is deployed globally for all the users.
+CI/CD pipelines	A continuous integration and continuous deployment (CI/CD) pipeline is a series of steps that must be performed in order to deliver a new version of software. CI/CD pipelines are a practice focused on improving software delivery throughout the software development life cycle via automation.
+Circuit breaking	A method to prevent errors in one microservice from cascading to other microservices.
+Client-server architecture	is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.
+Cloud Controller Manager	A Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+Cloud native	A cloud-native application is a program that is designed for a cloud computing architecture. These applications are run and hosted in the cloud and are designed to capitalize on the inherent characteristics of a cloud computing software delivery model.
+Cluster Autoscaler	Also known as CA. An API resource that autoscales the cluster itself, increasing and decreasing the number of available nodes that pods can run on.
+Cluster	A set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node.
+Config Map	An API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume.
+Configuration Change	A trigger that causes a new build to run when a new BuildConfig resource is created.
+Container Orchestration	Container orchestration is a process that automates the container lifecycle of containerized applications.
+Container Registry	Used for the storage and distribution of named container images. While many features can be built on top of a registry, its most basic functions are to store images and retrieve them.
+Container Runtime	The container runtime is the software that is responsible for running containers.
+Control Loop	A non-terminating loop that regulates the state of a system. A thermostat is an example of a control loop.
+Control plane	The container orchestration layer that exposes the API and interfaces to define, deploy, and manage the lifecycle of containers.
+Controller	In Kubernetes, controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
+CRDs	Custom code that defines a resource to add to your Kubernetes API server without building a complete custom server.
+Custom build strategy	Requires you to define and create your own builder image.
+Custom builder images	Are regular Docker images that contain the logic needed to transform the inputs into the expected output.
+Custom controllers	Reconcile the custom resources (CRDs) actual state with its desired state.
+Daemon-less	A container runtime that does not run any specific program (daemon) to create objects, such as images, containers, networks, and volumes.
+DaemonSet	Ensures a copy of a Pod is running across a set of nodes in a cluster.
+Data (Worker) Plane	The layer that provides capacity such as CPU, memory, network, and storage so that the containers can run and connect to a network.
+Data plane	Communication between services is handled by the data plane. If a service mesh is absent, the network cannot identify the type of traffic that flows, the source, and the destination and make any necessary decisions.
+Declarative Management	A desired state that can be expressed (for example, the number of replicas of a specific application),and Kubernetes will actively work to ensure that the observed state matches the desired state.
+Deployment	An object that provides updates for both Pods and ReplicaSets. Deployments run multiple replicas of an application by creating ReplicaSets and offering additional management capabilities on top of those ReplicaSets. In addition, deployments are suitable for stateless applications.
+Designed for extensibility	Adds features to your cluster without adding or modifying source code.
+DevOps	is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams.
+Docker client	is the primary way that many Docker users interact with Docker. When you use commands such as docker run, the client sends these commands to dockerd, which carries them out. The docker command uses the Docker API. The Docker client can communicate with more than one daemon.
+Docker Command Line Interface (CLI)	The Docker client provides a command line interface (CLI) that allows you to issue build, run, and stop application commands to a Docker daemon.
+Docker daemon (dockerd)	creates and manages Docker objects, such as images, containers, networks, and volumes.
+Docker Hub	is the world's easiest way to create, manage, and deliver your team's container applications.
+Docker localhost	Docker provides a host network which lets containers share your host's networking stack. This approach means that a localhost in a container resolves to the physical host, instead of the container itself.
+Docker networks	help isolate container communications.
+Docker plugins	such as a storage plugin, provides the ability to connect external storage platforms.
+Docker remote host	A remote Docker host is a machine, inside or outside our local network which is running a Docker Engine and has ports exposed for querying the Engine API.
+Docker storage	uses volumes and bind mounts to persist data even after a running container is stopped.
+Docker Swarm	automates the deployment of containerized applications but was designed specifically to work with Docker Engine and other Docker tools making it a popular choice for teams already working in Docker environments.
+Docker	An open container platform for developing, shipping and running applications in containers.
+Ecosystem	A composition of services, support and tools that are widely available. The Kubernetes ecosystem is a large, rapidly growing ecosystem where its services, support, and tools are widely available.
+Enforceability (Control)	Istio provides control by enforcing policies across an entire fleet and ensures resources are fairly distributed among consumers.
+Envoy proxy	All network traffic is subject to or intercepted by a proxy, called Envoy, used by the service mesh and allows many features depending on the configuration.
+etcd	A highly available key value store that contains all the cluster data. For any deployment, the deployment configuration is stored in etcd. It is the source of truth for the state in a Kubernetes cluster, and the system works to bring the cluster state into line with what is stored in etcd.
+Eviction	Process of terminating one or more Pods on Nodes.
+Horizontal Pod Autoscaler	Also known as:HPA An API resource that automatically scales the number of Pod replicas based on targeted CPU utilization or custom metric targets.
+Human operators	Understand the systems they control. They know how to deploy services and how to recognize and fix problems.
+IBM Cloud catalog	provides various Services that range from visual recognition to natural language processing and creating chatbots.
+IBM Cloud Container Registry	stores and distributes container images in a fully managed private registry.
+Image Change	A trigger to rebuild a containerized application when a new or updated version of an image is available. For example, if an application is built using a Node.js base image, that image will be updated as security fixes are released and other updates occur.
+Image	An immutable file that contains the source code, libraries, and dependencies that are necessary for an application to run. Images are templates or blueprints for a container.
+ImageStream Tag	An identity to the pointer in an ImageStream that points to a certain image in a registry.
+ImageStream	An abstraction for referencing container images within OpenShift. Each image contains an ID, or digest, that identifies it. ImageStreams do not contain image data but rather are pointers to image digests.
+Immutability	Images are read-only; if you change an image, you create a new image.
+Imperative commands	Create, update, and delete live objects directly.
+Imperative Management	Defining steps and actions to get to a desired state.
+Ingress	An API object that manages external access to the services in a cluster, typically HTTP.
+IPv4/IPv6 dual stack	Assigns both IPv4 and IPv6 addresses to Pods and Services.
+Istio	A platform-independent and popular service mesh platform, often used with Kubernetes. It intelligently controls the flow of traffic and API calls between services, conducts a range of tests and reduces the complexity of managing network services. Istio secures services through authentication, authorization, and encryption. Istio provides control by defining policies that can be enforced across an entire fleet. With Istio, you can observe traffic flow in your mesh so you can trace call flows, dependencies, and you can view service communication metrics such as latency, traffic, errors and saturation.
+Job	A finite or batch task that runs to completion.
+kube-scheduler	Control plane component that watches for newly created Pods with no assigned node, and selects a node for them to run on.
+Kubectl	Also known as kubectl Command line tool for communicating with a Kubernetes cluster's control plane, using the Kubernetes API.
+Kubelet	The kubelet is the primary "node agent" that runs on each node. The kubelet takes a set of PodSpecs (a YAML or JSON object that describes a pod) provided primarily through the apiserver and ensures that the containers described in those PodSpecs are running and healthy. The kubelet doesn't manage containers which were not created by Kubernetes.
+Kubernetes API Server	The Kubernetes API server validates and configures data for the api objects which include pods, services, replication controllers, and others. The API Server services REST operations and provides the frontend to the cluster's shared state through which all other components interact.
+Kubernetes API	The application that serves Kubernetes functionality through a RESTful interface and stores the state of the cluster.
+Kubernetes Cloud Controller Manager	A Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+Kubernetes Controller Manager	Runs all the controller processes that monitor the cluster state and ensures that the actual state of a cluster matches the desired state. Examples of controllers that ship with Kubernetes are the replication controller, endpoints controller, namespace controller, and service accounts controller.
+Kubernetes Proxy	A network proxy that runs on each node in a cluster. This proxy maintains network rules that allow communication to Pods running on nodes-in other words, communication to workloads running on the cluster. The user must create a service with the apiserver API to configure the proxy.
+Kubernetes	is the de facto open-source platform standard for container orchestration. It was developed by Google and is maintained by the Cloud Native Computing Foundation (CNCF). Kubernetes automates container management tasks, like deployment, storage provisioning, load balancing and scaling, service discovery, and fixing failed containers. Its open-source toolset and wide array of functionalities are very attractive to leading cloud providers, who both support it, and in some cases, also offer fully managed Kubernetes services.
+Label Selector	Allows users to filter a list of resources based on labels.
+Labels	Tags objects with identifying attributes that are meaningful and relevant to users.
+Linguistic Analysis	Detects the tone in a given text.
+Load balancing	Balances traffic across Pods for better performance and high availability.
+LXC	LinuX Containers is a OS-level virtualization technology that allows creation and running of multiple isolated Linux virtual environments (VE) on a single control host.
+Man-in-the-middle attacks	A man-in-the-middle (MiTM) attack is a type of cyber-attack where the attacker secretly intercepts and relays messages between two parties who believe they are communicating directly with each other. The attack is a type of eavesdropping in which the attacker intercepts and then controls the entire conversation.
+Marathon	is an Apache Mesos framework. Apache Mesos is an open-source cluster manager developed by UC Berkeley. It lets users scale container infrastructure through the automaton of most management and monitoring tasks.
+Microservices	are a cloud-native architectural approach in which a single application contains many loosely coupled and independently deployable smaller components or services.
+Namespace	A Linux namespace is a Linux kernel feature that isolates and virtualizes system resources. Processes which are restricted to a namespace can only interact with resources or processes that are part of the same namespace. Namespaces are an important part of Docker's isolation model. Namespaces exist for each type of resource, including networking, storage, processes, hostname control and others.
+Node	The worker machine in a Kubernetes cluster. User applications are run on nodes. Nodes can be virtual or physical machines. Each node is managed by the control plane and is able to run Pods.
+Nomad	(Hashicorp) is a free and open-source cluster management and scheduling tool that supports Docker and other applications on all major operating systems across all infrastructure, whether on-premises or in the cloud. This flexibility lets teams work with any type and level of workload.
+Object	An entity in the Kubernetes system. The Kubernetes API uses these entities to represent the state of your cluster.
+Observability	Helps to observe the traffic flow in your mesh, trace call flows and dependencies, and view metrics such as latency and errors.
+OpenShift CI/CD process	Automatically merges new code changes to the repository, builds, tests, approves, and deploys a new version to different environments.
+OpenShift	A hybrid cloud, enterprise Kubernetes application.
+Operating System Virtualization	OS-level virtualization is an operating system paradigm in which the kernel allows the existence of multiple isolated user space instances, called containers, zones, virtual private servers, partitions, virtual environments, virtual kernels, or jails.
+Operator Framework	Is a family of tools and capabilities to deliver an efficient customer experience. It is not just about writing code; what is also critical is testing, delivery, and updating Operators.
+Operator Lifecycle Manager	(or OLM) Controls the install, upgrade, and role-based access control (or RBAC) of Operators in a cluster.
+Operator maturity model	Defines the phases of maturity for general day two Operations activities and ranges from Basic Install to Auto Pilot.
+Operator Pattern	A system design that links a Controller to one or more custom resources.
+Operator Registry	Stores CRDs, cluster service versions (CSVs), and Operator metadata for packages and channels. It runs in Kubernetes or OpenShift clusters to provide the Operator catalog data to OLM.
+Operator SDK	(which includes Helm, Go, and Ansible) Helps authors build, test, and package their Operators without requiring knowledge of Kubernetes API complexities.
+OperatorHub	Web console lets cluster administrators find Operators to install on their cluster. It provides many different types of Operators available, including Red Hat Operators, Certified Operators from independent service vendors partnered with Red Hat, Community Operators from the open-source community but not officially supported by Red Hat, and custom Operators defined by users.
+Operators	Automate cluster tasks and act as a custom controller to extend the Kubernetes API.
+Persistence	Ensures that an object exists in the system, until the object is modified or removed.
+Persistent Volume Claim	Claims storage resources defined in a PersistentVolume so that it can be mounted as a volume in a container.
+Persistent Volume	An API object that represents a piece of storage in the cluster. Available as a general, pluggable resource that persists beyond the lifecycle of any individual Pod.
+Pod	The smallest and simplest Kubernetes object. Represents a process running in a cluster; it also represents a single instance of an application running in a cluster. Usually, a Pod wraps a single container but, in some cases encapsulates multiple tightly coupled containers that share resources.
+postCommit	Section defines an optional build hook.
+Preemption	Logic in Kubernetes helps a pending Pod to find a suitable Node by evicting low priority Pods existing on that Node.
+Private Registry	Restricts access to images so that only authorized users can view and use them.
+Proxy	In computing, a proxy is a server that acts as an intermediary for a remote service.
+Registry	is a hosted service containing repositories of images which responds to the Registry API.
+ReplicaSet	A ReplicaSet (aims to) maintain a set of replica Pods running at any given time.
+Repository	is a set of Docker images. A repository can be shared by pushing it to a registry server. The different images in the repository can be labelled using tags.
+REST API	A REST API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.
+Retries	A method to prevent errors in one microservice from cascading to other microservices.
+Rolling Updates	Provide a way to roll out application changes in an automated and controlled fashion throughout your pods. Rolling updates work with pod templates such as deployments. Rolling updates allow for rollback if something goes wrong.
+runPolicy	Field controls how builds created from a build configuration need to run. Values include the default Serial (sequentially) and simultaneously.
+Secrets	Stores sensitive information, such as passwords, OAuth tokens, and ssh keys.
+Self-healing	Restarts, replaces, reschedules, and kills failing or unresponsive containers.
+Server Virtualization	Server virtualization is the process of dividing a physical server into multiple unique and isolated virtual servers by means of a software application. Each virtual server can run its own operating systems independently.
+Serverless	is a cloud-native development model that allows developers to build and run applications without having to manage servers.
+Service binding	is the process needed to consume external Services or backing Services, including REST APIs, databases, and event buses in your applications.
+Service Broker	Provides a short-running process that cannot perform the consecutive day's operations such as upgrades, failover, or scaling.
+Service Discovery	Discovers Pods using their IP addresses or a single DNS name.
+Service Mesh	A dedicated layer for making service-to-service communication secure and reliable. It provides traffic management to control the flow of traffic between services, security to encrypt traffic between services, and observability of service behavior; so, you can troubleshoot and optimize applications.
+Service	An abstract way to expose an application running on a set of Pods as a network service.
+Software operators	Try to capture the knowledge of human operators and automate the same processes.
+Source strategy	Section shows the strategy used to execute the build, such as a Source, Docker, or Custom strategy.
+Source type	Determines the primary input like a Git repository, an inline Dockerfile, or binary payloads.
+Source-to-Image	A tool for building reproducible container images. Also abbreviated S2i, it injects application source code into a container image to produce a ready-to-run image.
+StatefulSet	Manages the deployment and scaling of a set of Pods, and provides guarantees about the ordering and uniqueness of these Pods.
+Storage Orchestration	Automatically mounts your chosen storage system whether from local storage, network storage, or public cloud.
+Storage	A data store that supports persistent and temporary storage for Pods.
+Tag	A tag is a label applied to a Docker image in a repository. Tags are how various images in a repository are distinguished from each other.
+Tone Analyzer Service	is used for explaining service binding. This IBM Cloud Service uses linguistic analysis to detect tone in a given text.
+Vertical Pod Autoscaler also known as VPA	An API resource that adds resources to an existing machine. A VPA lets you scale a service vertically within a cluster.
+Volume Mount	entails mounting of the declared volume into a container in the same Pod.
+Volume Plugin	A Volume Plugin enables integration of storage within a Pod.
+Volume	A directory containing data, accessible to multiple containers in a Pod.
+Webhook	A trigger that sends a request to an OpenShift Container Platform API endpoint. Often this will be a GitHub webhook, though it can also be a generic webhook. If a GitHub webhook is utilized, GitHub can send the request to OpenShift when there is a new commit on a certain branch, or a pull request is merged, or under many more circumstances. Webhooks are a great way to automate development flows so that builds can occur automatically as new code is developed.
+Workload	A workload is an application running on Kubernetes.
+
+API Gateway	API management tool that sits between a client and a collection of backend services
+ASGI	Asynchronous Server Gateway Interface - web server interface to call microservice asynchronously
+BaaS	Backend-as-a-Service
+BFF	Backend for Frontend
+Build	An executable unit
+Buildpack	Contains executables to perform tasks such as inspecting source code, creating a build plan, or executing the build plan to produce a container image
+CaaS	Containers as a Service
+CNCF	Cloud Native Computing Foundation
+Code Engine	Abstracts the operational burden of building, deploying, and managing workloads so that developers can focus on code development
+Configuration	Everything that can differ between deployments, might differ among environments
+Container	A standalone, all-inclusive, and executable unit of software packaged with libraries, dependencies, and runtimes
+Container image	An immutable file containing all the application assets like source code, libraries, and dependencies necessary for an application to run
+CRUD	Creating, reading, updating, and deleting records
+cURL	A command line tool and library for transferring data with URLs
+DELETE	Request to delete a record
+Docker	A software platform for building and running applications as containers
+Dockerfile	A text file that includes all the commands to build a docker container image
+Environment variables	Are easy to change across deployments without changing the code
+FaaS	Function-as-a-Service
+Flask	A micro web framework that does not require particular tools or libraries
+GET	Request to retrieve a record
+GraphQL	A query language that enables you to retrieve exactly what you need from the API
+Horizontal scaling	Scaling by adding more instances of resources, also described as "scaling out"
+IBM Cloud CLI	IBM Cloud command line interface
+IBM Cloud Console	A well-designed web portal for end users to conveniently manage their IBM cloud services, including the Code Engine
+IDE	Integrated Development Environment
+Job	Runs executable code one time and exits
+Microservices	A single application is composed of many loosely coupled and independently deployable smaller services
+Monolithic application	Has all or most of its functionality within a single process
+OpenAPI	specification Defines a standard, language-agnostic interface to RESTful APIs
+PaaS	Platform as a Service
+pip	Python package manager
+POST	Request to create a record
+Postman	An API platform for building and using APIs
+PUT	Request to update a record
+Release stage	Combines the build with the deployment's current configuration so that the code is ready to run
+Repository	A group of related container images
+REST	Representational State Transfer
+Run stage	Implements the application
+SaaS	Software as a Service
+Serverless computing	Abstracts both infrastructure and software environments. An architectural style where code runs using a cloud platform
+Service discovery pattern	Helps applications and services discover each other
+SOA	Service Oriented Architecture
+SPA	Single page application
+Stateless	Means each request contains all the information required to process it
+Strangler pattern	Helps manage the refactoring of a monolithic application in stages
+Swagger	Allows you to describe the structure of your APIs so that machines can read them
+TCP	Transmission Control Protocol
+TLS	Transport layer security
+VM	Virtual machine
+WebSocket	A communication protocol based on Transmission Control Protocol
+WSGI	Web Server Gateway Interface - Python standard for communication between web servers and web applications or microservices
+
